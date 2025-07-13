@@ -9,3 +9,5 @@ I'm Marios (m4r1os),a Discord Bot Developer! Working since 2020 on Bots 🚀
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,discordjs,nodejs,git&theme=light)](https://skillicons.dev)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/930463180189204561)](https://discord.com/users/930463180189204561)

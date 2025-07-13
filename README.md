@@ -1,13 +1,64 @@
-## Hi there 👋
-I'm Marios (m4r1os),a Discord Bot Developer! Working since 2020 on Bots 🚀
+<div align="center">
 
-🌱 I’m currently coding in JavaScript, Python, Html and css
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=I'm+Marios+(m4r1os)" alt="Typing SVG" />
 
-❓ I am in love with coding Discord Bots, I also love helping!.
+</div>
 
-[![M4rios GitHub stats](https://github-readme-stats.vercel.app/api?username=M4riosDev)](https://github.com/M4riosDev/github-readme-stats)
+---
 
+## 🧠 About Me
 
-[![My Skills](https://skillicons.dev/icons?i=java,discordjs,nodejs,git&theme=light)](https://skillicons.dev)
+I’m an 18-year-old developer from Greece, studying at Harrow College. I’ve loved computers and coding since I was young. Over time, I’ve worked on making Discord bots, Minecraft mods, websites, and backend systems. Sometimes, I also try out low-level programming.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/930463180189204561)](https://discord.com/users/930463180189204561)
+I’m still learning and getting better every day. My goal is to improve my skills, keep up with new technology like AI, and create useful and interesting projects. Right now, I’m focused on practising, trying new ideas, and working with others to build good things.
+
+---
+
+## 💬 Discord Presence
+
+<div align="center">
+
+  <a href="https://discord.com/users/930463180189204561"><img src="https://lanyard.cnrad.dev/api/930463180189204561?theme=dark&idleMessage=Coding%20new%20features..." /></a>
+
+</div>
+
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,java,nodejs,electron,sqlite,mongodb,git,vscode,discordjs&perline=7" alt="My Skills"/>
+  </a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/M4riosDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=M4riosDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </a>
+  <br/>
+  <a href="https://github.com/M4riosDev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4riosDev&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+  💬 Discord: <a href="https://discord.com/users/930463180189204561">@m4r1os</a>  
+  🌐 GitHub: <a href="https://github.com/M4riosDev">M4riosDev</a>
+
+</div>
+
+---

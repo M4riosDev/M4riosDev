@@ -29,7 +29,7 @@ I’m still learning and getting better every day. My goal is to improve my skil
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,nodejs,electron,sqlite,mongodb,git,vscode,discordjs&perline=7" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,nodejs,sqlite,mongodb,git,vscode,discordjs&perline=7" alt="My Skills"/>
   </a>
 
 </div>

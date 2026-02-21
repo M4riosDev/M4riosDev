@@ -12,15 +12,6 @@ I’m an 18-year-old developer from Greece, studying at Harrow College. I’ve l
 
 I’m still learning and getting better every day. My goal is to improve my skills, keep up with new technology like AI, and create useful and interesting projects. Right now, I’m focused on practising, trying new ideas, and working with others to build good things.
 
----
-
-## 💬 Discord Presence
-
-<div align="center">
-
-  <a href="https://discord.com/users/930463180189204561"><img src="https://lanyard.cnrad.dev/api/930463180189204561?theme=dark&idleMessage=Coding%20new%20features..." /></a>
-
-</div>
 
 ---
 

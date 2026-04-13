@@ -13,8 +13,18 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Projects
-- **💬 [Roleplay Chats](https://github.com/M4riosDev/BetterMChats):** A FiveM-style HUD and chat mod for Minecraft. It replaces the default chat with styled, icon-based message channels designed for roleplay servers.
-- **🏧 EPOS (Coming Soon):** A custom electronic point of sale system. More details coming soon.
+
+- **[Roleplay Chats](https://github.com/M4riosDev/BetterMChats)**  
+  A FiveM-style HUD and chat system for Minecraft servers, replacing the default chat with clean, animated, and channel-based communication designed for roleplay environments.
+
+- **[Better Rewards (Closed Source)](https://www.curseforge.com/minecraft/mc-mods/betterrewards)**  
+  A promotional code and rewards system for Minecraft servers, allowing administrators to create redeemable codes with full control over rewards, usage limits, and expiration.
+
+- **openEPOS (Coming Soon)**  
+  A modern, open-source electronic point of sale system focused on performance, flexibility, and multi-terminal support.
+  
+- **Money Manager (Coming Soon)**  
+  A clean, modern web app for tracking monthly budgets and expenses with minimal setup. Set a budget, log expenses by category, and instantly see your remaining balance. Built for speed, clarity, and everyday use.
 
 ## What I'm doing
 - **Studying:** Focusing on improving my knowledge and skills.

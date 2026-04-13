@@ -23,7 +23,7 @@
 - **openEPOS (Coming Soon)**  
   A modern, open-source electronic point of sale system focused on performance, flexibility, and multi-terminal support.
   
-- **Money Manager (Coming Soon)**  
+- **[Money Manager](https://github.com/M4riosDev/Money-Manager)**  
   A clean, modern web app for tracking monthly budgets and expenses with minimal setup. Set a budget, log expenses by category, and instantly see your remaining balance. Built for speed, clarity, and everyday use.
 
 ## What I'm doing

@@ -1,5 +1,27 @@
-# Hey, I'm Marios
-**📍 Greece / UK | ⚙️ Full Stack Developer**
+<h1 align="center">Hey, I'm Marios 👋</h1>
+
+<p align="center">
+  📍 Greece / UK • ⚙️ Full Stack Developer
+</p>
+
+---
+
+##  About Me
+
+I’m an 18-year-old developer from Greece, currently studying at Harrow College.  
+I’ve been passionate about computers and coding from a young age, and over time I’ve turned that into building real projects.
+
+I mainly focus on **full-stack development, backend systems, and custom tools**, with experience in:
+- Discord bots & automation systems
+- Minecraft modding (Forge)
+- Web applications (frontend & backend)
+- Scalable and structured backend architectures
+
+---
+
+##  Tech Stack
+
+<p align="center">
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -12,20 +34,28 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Projects
+</p>
 
-- **[Roleplay Chats](https://github.com/M4riosDev/BetterMChats)**  
-  A FiveM-style HUD and chat system for Minecraft servers, replacing the default chat with clean, animated, and channel-based communication designed for roleplay environments.
+---
 
-- **[Better Rewards (Closed Source)](https://www.curseforge.com/minecraft/mc-mods/betterrewards)**  
-  A promotional code and rewards system for Minecraft servers, allowing administrators to create redeemable codes with full control over rewards, usage limits, and expiration.
+##  Projects
 
-- **openEPOS (Coming Soon)**  
-  A modern, open-source electronic point of sale system focused on performance, flexibility, and multi-terminal support.
-  
-- **[Money Manager](https://github.com/M4riosDev/Money-Manager)**  
-  A clean, modern web app for tracking monthly budgets and expenses with minimal setup. Set a budget, log expenses by category, and instantly see your remaining balance. Built for speed, clarity, and everyday use.
+### 🔹 [Roleplay Chats](https://github.com/M4riosDev/BetterMChats)
+A FiveM-style HUD and chat system for Minecraft servers, replacing the default chat with a clean, animated, channel-based system designed for roleplay environments.
 
-## What I'm doing
-- **Studying:** Focusing on improving my knowledge and skills.
-- **Improving:** Making my projects cleaner, faster, and more user-friendly.
+### 🔹 [Better Rewards (Closed Source)](https://www.curseforge.com/minecraft/mc-mods/betterrewards)
+A powerful promotional code system for Minecraft servers with support for rewards, limits, and expiration control.
+
+### 🔹 openEPOS *(Coming Soon)*
+An open-source EPOS system built for performance, flexibility, and multi-terminal environments.
+
+### 🔹 [Money Manager](https://github.com/M4riosDev/Money-Manager)
+A modern web app for tracking budgets and expenses with zero friction. Fast, clean, and built for everyday use.
+
+---
+
+##  Currently
+
+-  Studying at Harrow College
+-  Improving performance & structure in my projects
+-  Building open-source tools and systems
